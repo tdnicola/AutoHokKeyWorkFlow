@@ -1,4 +1,4 @@
-##AutoHotKey shortcuts for workflow
+## AutoHotKey shortcuts for workflow
 
 Part of a group inbox and have to reply from it? Have the problem of either having to copy and paste your email signature or change the signature each time was annoying.
 
